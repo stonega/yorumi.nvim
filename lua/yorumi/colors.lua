@@ -2,7 +2,7 @@
 local palette = {
 
   -- yoru
-  yoru0   = "#060914",
+  yoru0   = "#121520",
   yoru1   = "#0C0F1A",
   yoru2   = "#121520",
   yoru3   = "#1D202B",
